@@ -1,5 +1,7 @@
-# Synergy_labs - Data Science/Computer Vision Selection Task
-Task:
+# Synergy_labs
+## Data Science/Computer Vision Selection Task
+
+### Task:
 
 1.Extract frame from video
 (https://drive.google.com/file/d/1OKKbCoMxDtbfgwJuUvsg_I-707rYEQxm/view?usp=sharing)
